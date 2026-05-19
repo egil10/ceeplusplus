@@ -1,0 +1,35 @@
+# Build artifacts (anywhere in tree)
+**/build/
+**/out/
+*.obj
+*.exe
+*.ilk
+*.pdb
+*.exp
+*.lib
+*.dll
+
+# CMake
+**/CMakeCache.txt
+**/CMakeFiles/
+**/cmake_install.cmake
+**/CMakeUserPresets.json
+**/.ninja_deps
+**/.ninja_log
+**/build.ninja
+
+# VS Code / Visual Studio
+.vscode/
+.vs/
+*.user
+
+# vcpkg
+vcpkg_installed/
+
+# Generated outputs (regenerable)
+*.csv
+*.png
+
+# Python
+__pycache__/
+*.pyc

@@ -1,3 +1,0 @@
-C:/Users/ofurn/Dokumenter/Github/ceeplusplus/02-european-call/build/CMakeFiles/eurocall.dir
-C:/Users/ofurn/Dokumenter/Github/ceeplusplus/02-european-call/build/CMakeFiles/edit_cache.dir
-C:/Users/ofurn/Dokumenter/Github/ceeplusplus/02-european-call/build/CMakeFiles/rebuild_cache.dir
